@@ -11,4 +11,5 @@ const APP_CONSTANTS = {
     service: "employee-app"
 };
 
+
 export default APP_CONSTANTS;
